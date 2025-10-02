@@ -1,4 +1,4 @@
 {
-  "repos": [],
-  "version": "0.0.1"
+  "repos": ["https://coletaneadigitalicm.github.io/cias/metadados.json"],
+  "version": "0.1.0"
 }
